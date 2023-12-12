@@ -1,0 +1,22 @@
+{
+  "name": "projeto_rairon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizCPorto/Projeto_Rairon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizCPorto/Projeto_Rairon/issues"
+  },
+  "homepage": "https://github.com/LuizCPorto/Projeto_Rairon#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
